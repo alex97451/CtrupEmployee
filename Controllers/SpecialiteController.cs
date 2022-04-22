@@ -20,10 +20,6 @@ namespace CtrlUpEmploye.Controllers
             _context = context;
         }
 
-        public SpecialiteController()
-        {
-        }
-
 
 
         // GET: Specialite
