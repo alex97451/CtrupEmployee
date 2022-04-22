@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CtrlUpEmploye
+build_property.RootNamespace = CtrlUpEmploye
+build_property.ProjectDir = /Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Employe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Employe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Employe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Employe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Employe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Specialite/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbGl0ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Specialite/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbGl0ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Specialite/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbGl0ZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Specialite/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbGl0ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Specialite/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbGl0ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexandreecormier/Projects/CtrlUpEmploye/CtrlUpEmploye/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qx4glza4zi

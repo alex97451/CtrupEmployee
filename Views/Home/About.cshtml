@@ -1,0 +1,30 @@
+﻿@model IEnumerable<CtrlUpEmploye.Models.EmployeeViewModels.EnrollmentDate>
+
+@{
+    ViewData["Title"] = "Employés";
+}
+
+<h2>Employés</h2>
+
+<table>
+    <tr>
+        <th>
+            Date Embauche
+        </th>
+        <th>
+            Employé
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDatation)
+            </td>
+            <td>
+                @item.EmployeeCount
+            </td>
+        </tr>
+    }
+</table>
